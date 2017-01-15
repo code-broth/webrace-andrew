@@ -1,0 +1,34 @@
+{
+    "project_a": {
+        "name": "Project A",
+        "deets": "A fake project."
+    },
+    "project_b": {
+        "name": "Project B",
+        "deets": "Another fake project."
+    },
+    "project_c": {
+        "name": "Project C",
+        "deets": "Another fake project."
+    },
+    "project_d": {
+        "name": "Project D",
+        "deets": "Another fake project."
+    },
+    "project_ab": {
+        "name": "Project AB",
+        "deets": "A fake project."
+    },
+    "project_bb": {
+        "name": "Project BB",
+        "deets": "Another fake project."
+    },
+    "project_cb": {
+        "name": "Project CB",
+        "deets": "Another fake project."
+    },
+    "project_db": {
+        "name": "Project DB",
+        "deets": "Another fake project."
+    }
+}
